@@ -8,3 +8,4 @@ import sys
 srv = Servo.Servo(1)
 srv.setup()
 srv.write(int(sys.argv[1]))
+sys.exit()
