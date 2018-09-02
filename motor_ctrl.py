@@ -140,5 +140,3 @@ class Back_Wheels(object):
 		self.db.set('forward_B', self.forward_B)
 		self.stop()
 
-motors = Back_Wheels()
-motors.forward()
