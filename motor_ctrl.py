@@ -1,6 +1,5 @@
 from picar.SunFounder_TB6612 import TB6612
-from picar.SunFounder_PCA9685 import PCA9685
-import sys
+
 
 
 class Back_Wheels(object):
