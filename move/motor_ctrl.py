@@ -1,4 +1,4 @@
-import PCA9685
+from move import PCA9685
 
 
 class Motor(object):
